@@ -64,3 +64,5 @@ export default function LearnPage() {
         </div>
     );
 }
+
+"ngetes aja pak :)"
