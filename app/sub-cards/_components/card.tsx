@@ -19,7 +19,7 @@ export default function Card({
                 <p>{description}</p>
                 <div className="flex gap-2 flex-wrap">
                     <Badge name="Web Apps" />
-                    <Badge name="Blog Post" />
+                    <Badge name="Blog Posts" />
                     <Badge name="Video Scripts" />
                     <Badge name="Sales Pages" />
                     <Badge name="Slogans" />
